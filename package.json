@@ -1,6 +1,6 @@
 {
   "name": "lorem-picsum-wallpaper-cli",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Set the desktop wallpaper",
   "license": "MIT",
   "repository": "the-pat/lorem-picsum-wallpaper-cli",
