@@ -1,0 +1,37 @@
+{
+  "name": "lorem-picsum-wallpaper-cli",
+  "version": "0.0.1",
+  "description": "Set the desktop wallpaper",
+  "license": "MIT",
+  "repository": "the-pat/lorem-picsum-wallpaper-cli",
+  "author": {
+    "name": "Patrick Tone",
+    "email": "pt@patrickt.one",
+    "url": "patrickt.one"
+  },
+  "bin": {
+    "lorempicsum": "cli.js"
+  },
+  "engines": {
+    "node": ">=7.6"
+  },
+  "scripts": {},
+  "files": [
+    "cli.js"
+  ],
+  "keywords": [
+    "desktop",
+    "wallpaper",
+    "background",
+    "random",
+    "lorem",
+    "picsum",
+    "image",
+    "photo",
+    "image"
+  ],
+  "dependencies": {
+    "lorem-picsum-wallpaper": "^1.0.0",
+    "meow": "^3.7.0"
+  }
+}
