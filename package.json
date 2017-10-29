@@ -31,7 +31,7 @@
     "image"
   ],
   "dependencies": {
-    "lorem-picsum-wallpaper": "^1.0.0",
+    "lorem-picsum-wallpaper": "^1.1.0",
     "meow": "^3.7.0"
   }
 }
