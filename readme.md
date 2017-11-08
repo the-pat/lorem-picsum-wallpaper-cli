@@ -1,4 +1,6 @@
-# lorem-picsum-wallpaper-cli [![NPM](https://nodei.co/npm/lorem-picsum-wallpaper-cli.png?mini=true)](https://nodei.co/npm/lorem-picsum-wallpaper-cli/)
+# lorem-picsum-wallpaper-cli
+
+[![Build Status](https://travis-ci.org/the-pat/lorem-picsum-wallpaper-cli.svg?branch=master)](https://travis-ci.org/the-pat/lorem-picsum-wallpaper-cli)
 
 > Set the desktop wallpaper
 
